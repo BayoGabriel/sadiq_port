@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [{ "source": "/((?!js/|css/|fonts/|images/|work/|about/|assets/|share.jpg|logo-oyin-real.png|favicon).*)", "destination": "/index.html" }]
+}
