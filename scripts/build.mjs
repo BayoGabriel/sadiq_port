@@ -11,8 +11,11 @@ const entries = [
   'work',
   'about',
   'assets',
+  'case',
+  'index',
+  'share',
   'share.jpg',
-  'logo-oyin-real.png',
+  'logo-sadiq.svg',
 ];
 
 rmSync('dist', { recursive: true, force: true });
