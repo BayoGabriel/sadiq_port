@@ -24,9 +24,9 @@ rep("`hello@oyin.design`", "`abubakarsadiqabdulazeez388@gmail.com`", 1)
 rep("`+234 816 502 0995`", "`+234 705 187 7448`", 1)
 rep("https://wa.me/2348165020995", "https://wa.me/2347051877448", 1)
 rep("Fl=[{label:`Behance`,href:`https://www.behance.net/oyinkanrufai`},{label:`Instagram`,href:`https://www.instagram.com/designbyoyin`},{label:`LinkedIn`,href:`https://www.linkedin.com/in/oyinkansolarufai`}]",
-    "Fl=[{label:`LinkedIn`,href:`https://www.linkedin.com/in/abdulazeez-sadiq`},{label:`Website`,href:`https://www.desynexia.com`}]", 1)
+    "Fl=[{label:`LinkedIn`,href:`https://www.linkedin.com/in/abubakar-sadiq-abdulazeez-016a191a5?utm_source=share_via&utm_content=profile&utm_medium=member_android`},{label:`Website`,href:`https://www.desynexia.com`}]", 1)
 rep("sameAs:[`https://www.behance.net/oyinkanrufai`,`https://www.instagram.com/designbyoyin`,`https://www.linkedin.com/in/oyinkansolarufai`]",
-    "sameAs:[`https://www.linkedin.com/in/abdulazeez-sadiq`,`https://www.desynexia.com`]", 1)
+    "sameAs:[`https://www.linkedin.com/in/abubakar-sadiq-abdulazeez-016a191a5?utm_source=share_via&utm_content=profile&utm_medium=member_android`,`https://www.desynexia.com`]", 1)
 rep("wu=`https://www.oyin.design`", "wu=`https://www.desynexia.com`", 1)
 rep("/about/oyin.jpg", "/about/sadiq.jpg")
 rep("/logo-oyin-real.png", "/logo-sadiq.svg", 2)
@@ -276,7 +276,7 @@ subs = [
  ('"knowsAbout":["Brand identity","Brand strategy","Visual identity","Art direction","Brand guidelines"]',
   '"knowsAbout":["Product design","Product strategy","UX research","Design systems","Prototyping"]'),
  ('"sameAs":["https://www.behance.net/oyinkanrufai","https://www.instagram.com/designbyoyin","https://www.linkedin.com/in/oyinkansolarufai"]',
-  '"sameAs":["https://www.linkedin.com/in/abdulazeez-sadiq","https://www.desynexia.com"]'),
+  '"sameAs":["https://www.linkedin.com/in/abubakar-sadiq-abdulazeez-016a191a5?utm_source=share_via&utm_content=profile&utm_medium=member_android","https://www.desynexia.com"]'),
  ("https://www.oyin.design/", "https://www.desynexia.com/"),
  ('"author":{"@id":"https://www.desynexia.com/#person"}', '"author":{"@id":"https://www.desynexia.com/#person"}'),
  ("Rufai Oyinkansola", "Sadiq Abdulazeez"),
